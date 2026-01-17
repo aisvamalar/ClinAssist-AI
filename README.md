@@ -1,6 +1,6 @@
-# 🏥 ClinAssist AI - NVIDIA Powered Clinical Decision Support
+# 🏥 ClinAssist AI - AI Powered Clinical Decision Support
 
-A multi-agent AI system providing intelligent clinical analysis, risk assessment, and treatment recommendations using NVIDIA Foundation Models.
+A multi-agent AI system providing intelligent clinical analysis, risk assessment, and treatment recommendations using  Models.
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/) [![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)](https://flask.palletsprojects.com/) [![Streamlit](https://img.shields.io/badge/Streamlit-Latest-red.svg)](https://streamlit.io/) [![NVIDIA AI](https://img.shields.io/badge/NVIDIA-AI-76B900.svg)](https://www.nvidia.com/)
 
