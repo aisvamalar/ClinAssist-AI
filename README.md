@@ -1,4 +1,4 @@
-# 🏥 ClinAssist AI - NVIDIA Powered Clinical Decision Support
+<img width="3788" height="1797" alt="Screenshot 2026-01-17 231151" src="https://github.com/user-attachments/assets/379bd62f-8b09-4297-9041-737062fc5718" /><img width="3829" height="2069" alt="Screenshot 2026-01-17 231121" src="https://github.com/user-attachments/assets/dda1818d-600c-4c2f-8094-d6a35351a100" /># 🏥 ClinAssist AI - NVIDIA Powered Clinical Decision Support
 
 A multi-agent AI system providing intelligent clinical analysis, risk assessment, and treatment recommendations using NVIDIA Foundation Models.
 
@@ -8,7 +8,11 @@ A multi-agent AI system providing intelligent clinical analysis, risk assessment
 
 ## 📸 Demo
 
-![ClinAssist AI Demo](images/demo.png)
+<img width="3829" height="2069" alt="Screenshot 2026-01-17 231121" src="https://github.com/user-attachments/assets/35f48bd5-c7e7-4cc9-a36a-c2038864519a" />
+<img width="3803" height="1952" alt="Screenshot 2026-01-17 231136" src="https://github.com/user-attachments/assets/71bf9674-fcdd-49fc-872a-152b691c9d10" />
+![Uploading Screenshot 2026-01-17 231151.png…]()
+
+
 *ClinAssist AI analyzing patient symptoms with AI-powered clinical insights*
 
 ---
